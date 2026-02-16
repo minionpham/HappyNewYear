@@ -4,7 +4,7 @@
   "type": "module",
   "author": "TrungQuanDev - Một Lập Trình Viên",
   "description": "https://youtube.com/@trungquandev",
-  "homepage": "https://trungquandev.github.io/fireworks-tqd",
+  "homepage": "https://minionpham.github.io/HappyNewYear",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -26,7 +26,7 @@
     "eslint-plugin-react": "^7.33.2",
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.4.5",
-    "gh-pages": "^6.1.1",
+    "gh-pages": "^6.3.0",
     "vite": "^5.1.0"
   }
 }
